@@ -1,2 +1,1 @@
-# msserviceapp
-DockerApp
+# Deploy microservice on ECS
